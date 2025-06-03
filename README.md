@@ -1,7 +1,7 @@
 # proof-of-movement
 
 ## Purpose
-This repo is part of a focused effort to consolidate and show forward movement in AI learning and systems work. It's not a portfolio-it's a process log. The goal is to document artifacts that reflect skill growth, discipline, and applied understanding.
+This repo is part of a focused effort to consolidate and show forward movement in AI learning and systems work. It's not a portfolio, it's a process log. The goal is to document artifacts that reflect skill growth, discipline, and applied understanding.
 
 ## What's Included
 - **Week 1 - Python Assessment Rebuild:** A re-creation and simulation of elements from a technical Python assessment, including commentary and related exercises.
